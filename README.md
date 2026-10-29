@@ -1,9 +1,9 @@
-# SR-MAE
+# SR-MAE v1.0
 
 
 
 ## Introduction
-SR-MAE: Super Resolution with masked autoencoder on global weather forecasts
+Super-resolution global weather forecasting with a masked autoencoder backbone
 
 ## Installation
 This project provided an environment seeting file of conda,users can easily reprodece the environment by the following commands
